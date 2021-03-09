@@ -9,7 +9,7 @@ import "../Styles/App.css";
 // console.log(weatherApi);
 
 const url = "https://api.openweathermap.org/data/2.5/onecall?";
-const api = "96163d593198b0ef807f2630c6d39143";
+const apiKey = "";
 
 function App() {
   //state used with the API call, cant use the API anymore today, reached my limit, sorry
